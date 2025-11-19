@@ -1,7 +1,7 @@
 # 👨‍💻 Senior Security Network Engineer Portfolio
 
 Welcome to my professional GitHub Portfolio!  
-Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ years of experience in planning, designing, Securing, and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Application Security, Network Defense, Threat Detection and Security Automation for DevOps** GRC | GDRC | NIST | ISO| PCI| HITRUST|HIPPA Compliance and Stealth Network Security 
+Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ years of experience in planning, designing, Securing, and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Application Security, Network Defense, Threat Detection and Security Automation for DevOps** GRC | GDRP | NIST | ISO| PCI| HITRUST|HIPPA Compliance and Stealth Network Security 
 
 ---
 ## 🔐 About Me

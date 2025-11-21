@@ -32,11 +32,11 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 
 | Category            | Tools/Technologies |
 |---------------------|--------------------|
-| **Network Security** | Firewalls, IDS/IPS,DLP VPNs, Zero Trust Endpoints |
+| **Network Security** | Firewalls, IDS/IPS,DLP VPNs, Zero Trust Endpoints | WAF
 | **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Cisco ASA, Cisco UCS, Splunk, ELK, Zeek, Suricata |
 | **Automation**       | Python, Bash, PowerShell |
-| **Cloud Security**   | AWS Security Groups, Azure NSGs, GCP IAM |
-| **Protocols**        | TCP/IP, DNSSEC, TLS, BGP |
+| **Cloud Security**   | AWS Security Groups, Azure NSGs, GCP IAM | OWASP, CSA 
+| **Protocols**        | TCP/IP, DNSSEC, TLS, BGP | OSPF & Legacy Protocol transformations
 
 ---
 

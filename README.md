@@ -10,6 +10,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 - 🧑‍💻 Skilled in **Python, Bash, PowerShell** for security automation and QA testing 
 - 📊 Experienced with tools like **Wireshark, Snort, Splunk, Nmap**
 - ☁️ Cloud Security Public & Private: **vmware SME, AWS, Azure, GCP IAM & Stealth Networking ** Linux/ Unix Firewalls manual Architect w/ Global Protocols
+- Storage Engineer, Fibre Channeling, Zoning, API Security and DevOps custom Software 
 ---
 ## 📂 Featured Projects
 

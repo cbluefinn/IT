@@ -1,7 +1,7 @@
 # 👨‍💻 Senior Security Network Engineer Portfolio
 
 Welcome to my professional GitHub Portfolio!  
-Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ years of experience in planning, designing, Securing, and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Application Security, Network Defense, Threat Detection and Security Automation for DevOps** GRC | GDRP | NIST | ISO | PCI | HITRUST | HIPPA Compliance and Stealth Network Security 
+Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ years of experience in planning, designing, Securing, and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection and Security Defense for Automation, API's, DevOps and Monitoring.** GRC | GDRP | NIST | ISO | PCI | HITRUST | HIPPA Compliance and Stealth Network Security 
 
 ---
 ## 🔐 About Me
@@ -34,7 +34,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 | Category            | Tools/Technologies |
 |---------------------|--------------------|
 | **Network Security** | Firewalls, IDS/IPS,DLP VPNs, Zero Trust Endpoints | WAF
-| **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Cisco ASA, Cisco UCS, Splunk, ELK, Zeek, Suricata |
+| **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, ELK, Zeek, Suricata |
 | **Automation**       | Python, Bash, PowerShell |
 | **Cloud Security**   | vmware SME, AWS Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions
 | **Protocols**        | TCP/IP, DNSSEC, TLS, BGP | OSPF & Legacy Protocol transformations

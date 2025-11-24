@@ -34,9 +34,9 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 | Category            | Tools/Technologies |
 |---------------------|--------------------|
 | **Network Security** | Firewalls, IDS/IPS/DLP VPNs, Zero Trust Endpoints | WAF
-| **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, ELK, Zeek, Suricata |
+| **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, ELK, Zeek, Suricata | Honeypots
 | **Automation**       | Python, Bash, PowerShell |
-| **Cloud Security**   | vmware SME, AWS Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions
+| **Cloud Security**   | vmware SME, AWS Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions,
 | **Protocols**        | TCP/IP, DNSSEC, TLS, BGP | OSPF & Legacy Protocol transformations
 
 
@@ -45,7 +45,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 ## 📜 Case Studies
 - **Incident Response:** Automated triage workflow reduced response time from 2 hours to 20 minutes.
 - **Network Hardening:** Designed secure segmentation for a Fortune 500 company, reducing attack surface by 60%.
-- **Business Continuity:** Controls and Disaster Recovery, Technical writting 
+- **Business Continuity:** Controls and Disaster Recovery, Technical writting, diagrams and implemetation post QA testing in silo environment.
 - **Cloud Security:** Implemented IAM misconfiguration detection for AWS, preventing privilege escalation risks.
 - Leverage AI tools (e.g., Microsoft Copilot 365, Security Copilot) to streamline security operations, automate documentation, and support incident response activities.
 - Develop and maintain AI prompts and workflows tailored for security use cases, including threat hunting, incident triage, and compliance reporting.
